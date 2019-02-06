@@ -36,6 +36,8 @@ Here's the Engine interface `com/sec/android/app/camera/interfaces/Engine.java`,
 
 But turned out getting the Java source code of SemCamera is not that easy..
 
+# SemCamera system framework
+
 ## Deodex framework odex
 
 `/mnt/framework/semcamera.jar` is just empty, a quick search of files named `"semcamera*"` returned `/mnt/framework/oat/arm/semcamera.odex`, looking at the file size, there should be something inside.
