@@ -64,7 +64,12 @@ Use `jadx` to put back Java source:
 bin/jadx -d java_out out.dex
 ```
 
-Result Java source will be put in `java_out`
+Result Java source will be put in `java_out`. Now I get the source code!
+
+# Next steps
+
+- [ ] get source code of other libraries that SamsungCamera depends on
+- [ ] look at the source code!
 
 ## References
 
